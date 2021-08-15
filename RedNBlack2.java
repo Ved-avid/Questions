@@ -30,6 +30,34 @@ For each test case, print a line with a string only containing 'B' and 'R', the 
 solutions, print any of them.
 
 
+
+
+
+
+
+INPUTS :-
+
+5
+7
+?R???BR
+7
+???R???
+1
+?
+1
+B
+10
+?R??RB??B?
+
+
+OUTPUTS :-
+
+BRRBRBR
+BRBRBRB
+B
+B
+BRRBRBBRBR
+
 */
 
 
