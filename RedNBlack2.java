@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.List;
 
-public class RedNBlack {
+public class RedNBlack2 {
     static public void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
