@@ -1,8 +1,11 @@
-/*As their story unravels, a timeless tale is told once again...
+/*
 
-Shirahime, a friend of Mocha's, is keen on playing the music game Arcaea and sharing Mocha interesting puzzles to solve. This day, Shirahime comes up with a new simple puzzle and wants Mocha to solve them. However, these puzzles are too easy for Mocha to solve, so she wants you to solve them and tell her the answers. The puzzles are described as follow.
 
-There are n squares arranged in a row, and each of them can be painted either red or blue.
+As their story unravels, a timeless tale is told once again...
+
+Shirahime, a friend of Mocha's, is keen on playing the music game Arcaea and sharing Mocha interesting puzzles to solve. This day, Shirahime comes up with a new simple puzzle 
+and wants Mocha to solve them. However, these puzzles are too easy for Mocha to solve, so she wants you to solve them and tell her the answers. The puzzles are described as 
+follow.There are n squares arranged in a row, and each of them can be painted either red or blue.
 
 Among these squares, some of them have been painted already, and the others are blank. You can decide which color to paint on each blank square.
 
@@ -19,10 +22,15 @@ The first line contains a single integer t (1≤t≤100) — the number of test 
 
 The first line of each test case contains an integer n (1≤n≤100) — the length of the squares row.
 
-The second line of each test case contains a string s with length n, containing characters 'B', 'R' and '?'. Here 'B' stands for a blue square, 'R' for a red square, and '?' for a blank square.
+The second line of each test case contains a string s with length n, containing characters 'B', 'R' and '?'. Here 'B' stands for a blue square, 'R' for a red square, and '?' 
+for a blank square.
 
 Output
-For each test case, print a line with a string only containing 'B' and 'R', the colors of the squares after painting, which imperfectness is minimized. If there are multiple solutions, print any of them.*/
+For each test case, print a line with a string only containing 'B' and 'R', the colors of the squares after painting, which imperfectness is minimized. If there are multiple
+solutions, print any of them.
+
+
+*/
 
 
 /* -- Ved -- */
