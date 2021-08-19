@@ -1,3 +1,14 @@
+
+/*
+
+     https://codeforces.com/contest/1560/problem/B
+     
+*/
+
+
+     
+
+
 import java.util.*;
 import static java.lang.System.out;
 
